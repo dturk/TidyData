@@ -7,11 +7,11 @@ _____
 ### Introduction
 This project consists of three files:
 ```
-`run_analysis.R` (a script file)
+run_analysis.R (a script file)
 
-`Codebook.md` (the data dictionary)
+CodeBook.md (the data dictionary)
 
-`README.md` (this help file)
+README.md (this help file)
 ```
 The `run_analysis.R` script is desgined to help process the data gathered 
 in the Human Activity Recognition (HAR) Using Smartphones experiment 
